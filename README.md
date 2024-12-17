@@ -19,7 +19,6 @@ Estudos atuais: PHP, JavaScript, Desenvolvimento Web Fullstack, Frameworks como 
 Atualmente estou focado em aprender e me aprofundar em:
 
 ° Frameworks PHP: Laravel, Symfony
-° JavaScript moderno: ES6+, Async/Await, API Fetch
 ° React.js: Construção de interfaces dinâmicas e interativas
 
 🚀 Vamos Conectar!

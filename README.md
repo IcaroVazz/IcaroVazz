@@ -33,8 +33,8 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-gamma-five-39.vercel.app/api?username=DinDja&show_icons=true&count_private=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2&text_color=fff&bg_color=0d1117" alt="Estatísticas"/>
-  <img height="180em" src="https://github-readme-stats-gamma-five-39.vercel.app/api/top-langs/?username=DinDja&layout=compact&langs_count=7&count_private=true&title_color=8A2BE2&text_color=fff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinDja&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2&text_color=fff&bg_color=0d1117" alt="Estatísticas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinDja&layout=compact&langs_count=7&title_color=8A2BE2&text_color=fff&bg_color=0d1117"/>
 </p>
 
 ---

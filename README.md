@@ -1,29 +1,43 @@
-<div align="center">
-    <h1>
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com/?font=arial&weight=300&duration=3000&pause=1000&color=275AF7&random=false&width=435&lines=I'm+Ícaro+Vaz;I'm+from+Brazil;and+I+study+Systems+Analyst+and+Developer+" alt="Typing SVG" />
-        </a>
-    </h1>
-</div>
+<!-- Banner animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Bruno%20%7C%20Fullstack%20Developer&fontSize=32&fontAlignY=35&animation=fadeIn&desc=Bem-vindo%20ao%20meu%20GitHub!&descAlignY=55&descAlign=50"/>
 
-<div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWMxZjV6dzl1a3h5d3I1anA5eTlrdjN4NWY3MjYycTU5MmhoeWExYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="50%" height="auto">
-</div>
+<!-- Typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
+</p>
 
-<div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroVazz&layout=compact&langs_count=7&theme=blue"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IcaroVazz&show_icons=true&theme=blue"/>
-</div>
+---
 
-<h2 align="center"><b>🔭 Languages and Tools</b></h2>
+## 👨‍💻 Sobre mim
+👨‍ Ícaro Vaz, tenho 18 anos  
+✈️ Sou de Salvador - BA  
+📘 Cursando **Análise e Desenvolvimento de Sistemas**  
+🏢 Atualmente trabalho na **Secretaria de Educação do Estado da Bahia**, desenvolvendo o sistema **AcompanhaTec**  
+🌱 Aprimorando conhecimentos em **Next.js**  
+📫 Contato: **icarovaz952@gmail.com**
 
-<div align="center">
-    <img alt="IcaroJs" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="IcaroGit" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img alt="IcaroMySQL" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img alt="IcaroPython" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img alt="IcaroPostgreSQL" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img alt="IcaroJava" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img alt="IcaroReact" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-          
-</div>
+---
+
+## 🚀 Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/React-2025-blue?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinDja&show_icons=true&theme=dracula" alt="Estatísticas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinDja&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>

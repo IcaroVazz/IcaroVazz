@@ -1,5 +1,5 @@
 
-# 👨‍💻 Bruno • Full-Stack Developer
+# 👨‍💻 Ícaro • Full-Stack Developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bruno%20%7C%20Fullstack%20Developer&fontSize=40&fontAlignY=35&animation=twinkling&desc=React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&descAlign=50"/>
 
@@ -13,13 +13,13 @@
 
 ## 🚀 Sobre mim
 
-* 👨 Sou **Bruno**, 25 anos.
+* 👨 Sou **Ícaro**, 18 anos.
 * 📍 Moro em **Salvador - BA**.
 * 🎓 Estudando **Análise e Desenvolvimento de Sistemas**.
 * 🏢 Desenvolvedor na **Secretaria de Educação da Bahia**, responsável pelo sistema **AcompanhaTec**.
 * 🌱 Estudando profundamente **Next.js**, **Clean Architecture** e **práticas de DevOps**.
 * 🎮 Gamer nas horas vagas, apaixonado por JRPGs, FPS e PCs tunados.
-* 📫 Contato: **[brunomomoshiki@gmail.com](mailto:brunomomoshiki@gmail.com)**
+* 📫 Contato: **icarovaz952@gmail.com**
 
 ---
 

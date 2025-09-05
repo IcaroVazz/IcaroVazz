@@ -1,7 +1,6 @@
-
 # 👨‍💻 Ícaro • Full-Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bruno%20%7C%20Fullstack%20Developer&fontSize=40&fontAlignY=35&animation=twinkling&desc=React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ícaro%20%7C%20Fullstack%20Developer&fontSize=40&fontAlignY=35&animation=twinkling&desc=React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&descAlign=50"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack%20Developer-blueviolet?style=for-the-badge" />
@@ -33,9 +32,10 @@
 
 ## 📊 Estatísticas & Atividade
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinDja&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://streak-stats.vercel.app?user=DinDja&theme=radical&hide_border=true" alt="Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinDja&layout=compact&langs_count=8&theme=radical"/>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroVazz&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://streak-stats.vercel.app?user=IcaroVazz&theme=radical&hide_border=true" alt="Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroVazz&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ---
@@ -44,10 +44,9 @@
 
 ### 🔹 [AcompanhaTec](#)
 
-Sistema interno de acompanhamento e gestão pedagógica voltada as unidade de Ensino Profissional e Técnológico (EPT).
+Sistema interno de acompanhamento e gestão pedagógica voltada às unidades de Ensino Profissional e Tecnológico (EPT).
 
 **Stack**: Next.js • Node.js • PostgreSQL • Firebase
-
 
 ---
 
@@ -70,4 +69,3 @@ Sistema interno de acompanhamento e gestão pedagógica voltada as unidade de En
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
---

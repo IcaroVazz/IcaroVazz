@@ -73,7 +73,6 @@ Sistema interno de acompanhamento e gestão pedagógica voltada às unidades de 
 
 ---
 
-## 🌐 Redes Sociais
 
 ## 🌐 Redes Sociais
 

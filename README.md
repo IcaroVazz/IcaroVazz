@@ -40,6 +40,14 @@
 
 ---
 
+## 🏆 Troféus GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IcaroVazz&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 📌 Projetos em Destaque
 
 ### 🔹 [AcompanhaTec](#)
@@ -47,6 +55,17 @@
 Sistema interno de acompanhamento e gestão pedagógica voltada às unidades de Ensino Profissional e Tecnológico (EPT).
 
 **Stack**: Next.js • Node.js • PostgreSQL • Firebase
+
+---
+
+## 📚 Roadmap de Aprendizado
+
+- [x] React & Next.js
+- [x] Node.js & Prisma
+- [x] Docker & CI/CD
+- [ ] Microsserviços com Kafka
+- [ ] Arquitetura Hexagonal
+- [ ] Kubernetes
 
 ---
 
@@ -63,6 +82,27 @@ Sistema interno de acompanhamento e gestão pedagógica voltada às unidades de 
 * Jogando RPGs e FPS táticos.
 * Testando novas stacks e frameworks.
 * Criando projetos open source para aprender e compartilhar.
+
+---
+
+## 🌐 Redes Sociais
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://seuportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-800080?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🐍 Snake dos Commits
+
+<p align="center">
+  <img src="https://github.com/IcaroVazz/IcaroVazz/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 

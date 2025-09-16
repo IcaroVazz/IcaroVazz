@@ -32,6 +32,10 @@
 
 ## 📊 Estatísticas & Atividade
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IcaroVazz&theme=tokyo-night" alt="Gráfico de contribuições" />
+</p>
+
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroVazz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://streak-stats.vercel.app?user=IcaroVazz&theme=tokyonight&hide_border=true" alt="Streak"/>

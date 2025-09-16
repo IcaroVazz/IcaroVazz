@@ -75,15 +75,14 @@ Sistema interno de acompanhamento e gestão pedagógica voltada às unidades de 
 
 ## 🌐 Redes Sociais
 
+## 🌐 Redes Sociais
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/icarovazz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://seuportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfólio-800080?style=for-the-badge" />
-  </a>
 </p>
-----------
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>

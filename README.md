@@ -56,18 +56,6 @@ Sistema interno de acompanhamento e gestão pedagógica voltada às unidades de 
 
 **Stack**: Next.js • Node.js • PostgreSQL • Firebase
 
----
-
-## 📚 Roadmap de Aprendizado
-
-- [x] React & Next.js
-- [x] Node.js & Prisma
-- [x] Docker & CI/CD
-- [ ] Microsserviços com Kafka
-- [ ] Arquitetura Hexagonal
-- [ ] Kubernetes
-
----
 
 ## 🎯 O que estou fazendo agora
 
@@ -95,16 +83,7 @@ Sistema interno de acompanhamento e gestão pedagógica voltada às unidades de 
     <img src="https://img.shields.io/badge/🌐%20Portfólio-800080?style=for-the-badge" />
   </a>
 </p>
-
----
-
-## 🐍 Snake dos Commits
-
-<p align="center">
-  <img src="https://github.com/IcaroVazz/IcaroVazz/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
+----------
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>

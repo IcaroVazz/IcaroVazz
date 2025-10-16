@@ -1,29 +1,61 @@
-name: Update README with Stats
+name: 🧠 Update README with Private Stats
 
 on:
   schedule:
-    - cron: '0 6 * * *' # Atualiza todo dia às 6h
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: '0 6 * * *' # Executa todo dia às 6h (horário UTC)
+  workflow_dispatch: # Permite rodar manualmente também
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repositório
-        uses: actions/checkout@v3
+      - name: 🧩 Clonar repositório
+        uses: actions/checkout@v4
 
-      - name: Gerar GitHub Stats com commits privados
+      - name: 🧠 Verificar token disponível
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=IcaroVazz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
-          curl -o streak.svg "https://streak-stats.demolab.com?user=IcaroVazz&theme=tokyonight&hide_border=true"
-          curl -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroVazz&layout=compact&langs_count=8&theme=tokyonight"
+          if [ -z "${{ secrets.GH_TOKEN }}" ]; then
+            echo "❌ ERRO: GH_TOKEN não foi encontrado nos segredos do repositório."
+            exit 1
+          else
+            echo "✅ Token encontrado. Continuando execução..."
+          fi
 
-      - name: Atualizar README
+      - name: 🔑 Validar autenticação do token
         run: |
+          echo "🧩 Validando token..."
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/user > user.json
+          cat user.json
+          if grep -q "Bad credentials" user.json; then
+            echo "❌ Token inválido ou expirado. Gere um novo com permissões 'repo' e 'read:user'."
+            exit 1
+          else
+            echo "✅ Token válido! Autenticação confirmada."
+          fi
+
+      - name: 📊 Gerar GitHub Stats com commits privados
+        run: |
+          echo "🔄 Gerando gráficos..."
+          mkdir -p stats
+          curl -o stats/stats.svg "https://github-readme-stats.vercel.app/api?username=IcaroVazz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+          curl -o stats/streak.svg "https://streak-stats.demolab.com?user=IcaroVazz&theme=tokyonight&hide_border=true"
+          curl -o stats/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroVazz&layout=compact&langs_count=8&theme=tokyonight"
+          echo "✅ Gráficos gerados com sucesso!"
+          ls -l stats/
+
+      - name: 📝 Atualizar README e commit automático
+        run: |
+          echo "🧩 Atualizando README..."
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Atualizar stats automaticamente" || echo "Nada para atualizar"
+          git add stats/
+          git commit -m "📈 Atualizar stats automaticamente ($(date '+%d/%m/%Y %H:%M'))" || echo "Nada novo para atualizar."
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: ✅ Log final
+        run: |
+          echo "🚀 Workflow finalizado com sucesso!"
+          echo "Se as imagens apareceram na pasta /stats e o token foi validado, commits privados estão sendo contados."

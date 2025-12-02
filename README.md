@@ -63,7 +63,7 @@ Sistema interno de acompanhamento e gestão pedagógica voltada às unidades de 
 
 ## 🎯 O que estou fazendo agora
 
-* Refatorando o **AcompanhaTec** com SSR/ISR e otimização em edge.
+* Refatorando o **AcompanhaTec** de react.js para next.js.
 * Criando **componentes headless e acessíveis**.
 * Automatizando CI/CD com **GitHub Actions** e **Docker**.
 

@@ -37,9 +37,9 @@
 </p>
 
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroVazz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-1bx4.vercel.app/api?username=IcaroVazz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://streak-stats.vercel.app?user=IcaroVazz&theme=tokyonight&hide_border=true" alt="Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroVazz&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-1bx4.vercel.app/api/top-langs/?username=IcaroVazz&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
 </p>
 
 ---

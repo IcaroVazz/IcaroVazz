@@ -12,12 +12,12 @@
 
 ## 🚀 Sobre mim
 
-* 👨 Sou **Ícaro**, 18 anos.
+* 👨 Sou **Ícaro**, 19 anos.
 * 📍 Moro em **Salvador - BA**.
 * 🎓 Estudando **Análise e Desenvolvimento de Sistemas**.
 * 🏢 Desenvolvedor na **Secretaria de Educação da Bahia**, responsável pelo sistema **AcompanhaTec**.
 * 🌱 Estudando profundamente **Next.js**, **Clean Architecture** e **práticas de DevOps**.
-* 🎮 Gamer nas horas vagas, apaixonado por JRPGs, FPS e PCs tunados.
+* 🎮 Gamer nas horas vagas, apaixonado por JRPGs, FPS e PCs.
 * 📫 Contato: **icarovaz952@gmail.com**
 
 ---

@@ -2,22 +2,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,19&height=260&section=header&text=%C3%8Dcaro%20%7C%20Full-Stack%20Developer&fontSize=42&fontColor=ffffff&fontAlignY=30&desc=Construindo%20sistemas%20confi%C3%A1veis%20para%20o%20setor%20p%C3%BAblico%20%E2%80%A2%20Web%20%E2%80%A2%20Backend%20%E2%80%A2%20LLMs&descAlignY=55&descAlign=50&animation=twinkling"/>
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=F78CFF&center=true&vCenter=true&width=680&height=42&lines=Full-Stack+Developer;Engenheiro+de+LLMs;RAG+%26+Agentes+Aut%C3%B4nomos;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Automa%C3%A7%C3%A3o+inteligente+para+o+setor+p%C3%BAblico)]
+
 
 <img src="https://img.shields.io/badge/Full_Stack_Developer-800080?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
 <img src="https://img.shields.io/badge/Engenheiro_de_LLMs-6A0DAD?style=for-the-badge&logo=openai&logoColor=white" alt="Engenheiro de LLMs" />
 <img src="https://img.shields.io/badge/Clean_Code_%26_Arquitetura-BA55D3?style=for-the-badge" alt="Clean Code & Arquitetura" />
 <img src="https://img.shields.io/badge/Dados_%26_BI-DA70D6?style=for-the-badge" alt="Dados & BI" />
 
+
 <a href="https://komarev.com/ghpvc/?username=IcaroVazz&label=Visitas&style=for-the-badge&color=800080" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=IcaroVazz&label=Visitas&style=for-the-badge&color=800080" alt="Contador de visitas" />
 </a>
 
+
 </div>
+
 
 ---
 
+
 ## 📑 Índice
+
 
 <p align="center">
   <a href="#quem-sou">🚀 Quem sou</a> •
@@ -30,13 +37,18 @@
   <a href="#contato">📬 Contato</a>
 </p>
 
+
 ---
+
 
 <a name="quem-sou"></a>
 
+
 ## 🚀 Quem sou
 
+
 Dev Full Stack que constrói **sistemas institucionais e corporativos** para o setor público — com obsessão por controle de acesso, rastreabilidade de dados, padronização de processos e confiabilidade operacional. Unindo web, backend e **LLMs** para automatizar o que ninguém deveria fazer na mão.
+
 
 * 📍 **Salvador - BA** • 19 anos
 * 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
@@ -44,11 +56,15 @@ Dev Full Stack que constrói **sistemas institucionais e corporativos** para o s
 * 📊 Analista de dados nas horas restantes: ETL, dashboards e relatórios automatizados
 * 📫 **icarovaz952@gmail.com**
 
+
 ---
+
 
 <a name="superpoderes"></a>
 
+
 ## ⚡ Superpoderes
+
 
 <table align="center">
   <tr>
@@ -81,17 +97,23 @@ Dev Full Stack que constrói **sistemas institucionais e corporativos** para o s
   </tr>
 </table>
 
+
 ---
+
 
 <a name="arsenal"></a>
 
+
 ## 🛠️ Arsenal
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,sass,bootstrap,html,css,nodejs,express,prisma,postgres,firebase,git,github,docker,vercel,netlify,python" alt="Tecnologias" />
 </p>
 
+
 ### 🎨 Frontend
+
 
 | Tecnologia | Uso |
 | --- | --- |
@@ -100,7 +122,9 @@ Dev Full Stack que constrói **sistemas institucionais e corporativos** para o s
 | Zustand | Estado global leve e previsível |
 | Sass / Bootstrap / HTML5 / CSS3 | Estilização e layouts responsivos |
 
+
 ### ⚙️ Backend & APIs
+
 
 | Tecnologia | Uso |
 | --- | --- |
@@ -110,13 +134,17 @@ Dev Full Stack que constrói **sistemas institucionais e corporativos** para o s
 | Webhooks & Proxy Layer | Integrações externas, APIs de pagamento, LLMs |
 | Realtime | Firestore listeners, WebSocket, SSE |
 
+
 ### 🗄️ Banco de Dados & Storage
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,supabase,redis" alt="Bancos de dados" />
 </p>
 
+
 ### 🤖 LLMs & IA — o que eu mais curto
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
@@ -125,6 +153,7 @@ Dev Full Stack que constrói **sistemas institucionais e corporativos** para o s
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square" />
 </p>
+
 
 | Capacidade | Detalhe |
 | --- | --- |
@@ -135,7 +164,9 @@ Dev Full Stack que constrói **sistemas institucionais e corporativos** para o s
 | Geração de documentos | Relatórios, notas técnicas, planilhas e PDFs com IA |
 | Observabilidade | Cache de IA, rate limiting, custo e qualidade de respostas |
 
+
 ### 🚀 DevOps & Infra
+
 
 | Ferramenta | Uso |
 | --- | --- |
@@ -144,15 +175,20 @@ Dev Full Stack que constrói **sistemas institucionais e corporativos** para o s
 | Vercel / Netlify | Deploy e hospedagem serverless |
 | Firebase | Auth, Firestore, Functions, Hosting |
 
+
 ---
+
 
 <a name="numeros"></a>
 
+
 ## 📊 Números que falam
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IcaroVazz&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Gráfico de contribuições" />
 </p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroVazz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Stats" />
@@ -160,27 +196,36 @@ Dev Full Stack que constrói **sistemas institucionais e corporativos** para o s
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroVazz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="Top linguagens" />
 </p>
 
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IcaroVazz&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12" alt="Troféus" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IcaroVazz/IcaroVazz/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha de contribuições" />
 </p>
 
+
 <!-- A cobrinha acima precisa do workflow platane/snk no repositório do perfil (IcaroVazz/IcaroVazz). Se ainda não estiver configurado, siga: https://github.com/Platane/snk -->
+
 
 ---
 
+
 <a name="projetos"></a>
 
+
 ## 🧪 Projetos
+
 
 <details>
 <summary><b>🎓 AcompanhaTec</b> — Acompanhamento e gestão pedagógica das unidades de EPT</summary>
 <br/>
 
+
 Sistema interno de acompanhamento e gestão pedagógica voltado às unidades de **Ensino Profissional e Tecnológico (EPT)** da rede estadual — rastreabilidade de todo o acompanhamento pedagógico com controle de acesso por perfil.
+
 
 | Métrica | Valor |
 | --- | --- |
@@ -188,13 +233,18 @@ Sistema interno de acompanhamento e gestão pedagógica voltado às unidades de 
 | Foco | Gestão pedagógica, acompanhamento de unidades EPT |
 | Arquitetura | Clean code, RBAC, dados auditáveis |
 
+
 </details>
+
 
 ---
 
+
 <a name="dominio"></a>
 
+
 ## 🧠 Domínio técnico
+
 
 | Categoria | Detalhe |
 | --- | --- |
@@ -208,11 +258,15 @@ Sistema interno de acompanhamento e gestão pedagógica voltado às unidades de 
 | Dados | ETL, Pandas, dashboards, relatórios automatizados, BI institucional |
 | Data Quality | Normalização textual, validação, deduplicação, marcação |
 
+
 ---
+
 
 <a name="foco"></a>
 
+
 ## 🎯 Foco atual
+
 
 - 🧠 Integrando **LLMs** em sistemas institucionais: assistência, busca semântica e geração de documentos.
 - 🤖 Construindo **agentes autônomos** com tool calling e MCP.
@@ -220,17 +274,23 @@ Sistema interno de acompanhamento e gestão pedagógica voltado às unidades de 
 - 🧩 Criando **componentes headless e acessíveis**.
 - 🚀 Automatizando CI/CD com **GitHub Actions** e **Docker**.
 
+
 ## 🎮 Depois do expediente
+
 
 - 🎮 Jogando RPGs e FPS táticos.
 - 🧪 Testando novas stacks, LLMs e frameworks.
 - 🌱 Criando projetos open source para aprender e compartilhar.
 
+
 ---
+
 
 <a name="contato"></a>
 
+
 ## 📬 Contato
+
 
 <p align="center">
   <a href="mailto:icarovaz952@gmail.com" target="_blank">
@@ -244,8 +304,10 @@ Sistema interno de acompanhamento e gestão pedagógica voltado às unidades de 
   </a>
 </p>
 
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação" />
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,19&height=140&section=footer"/>

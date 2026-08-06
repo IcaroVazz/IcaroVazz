@@ -40,7 +40,6 @@ Dev Full Stack que constrói **sistemas institucionais e corporativos** para o s
 
 * 📍 **Salvador - BA** • 19 anos
 * 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
-* 🏢 Desenvolvedor na **Secretaria da Educação da Bahia (SEC/BA)** — sistema **AcompanhaTec**
 * 🧠 Aprofundando em **LLMs**: RAG, agentes autônomos, tool calling, MCP e automação de documentos
 * 📊 Analista de dados nas horas restantes: ETL, dashboards e relatórios automatizados
 * 📫 **icarovaz952@gmail.com**

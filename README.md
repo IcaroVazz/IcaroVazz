@@ -889,21 +889,103 @@ Docker · GitHub Actions · Vercel · Netlify · Firebase
 
 # `20 // CONTRIBUTION STARFIELD`
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/IcaroVazz/IcaroVazz/output/galaxy.svg" width="100%" alt="Galaxy contributions"/>
+
+</p>
+
+<p align="center">
+
+<sub>
+
+<b>🌌 GALAXY CONTRIBUTION ENGINE</b><br>
+
+Cada semana do histórico de contribuições é transformada em uma região
+estelar. A intensidade dos commits controla a luminosidade, densidade e
+energia das estrelas.
+
+</sub>
+
+</p>
+
 ```text
-     ·       ✦          ·              ✧
-            ·      ✦          ·
-  ✧                    ·             ✦
-
-        ███      █████      ██
-     ████████  ████████  ███████
-    █████████████████████████████
-       █████████████████████
-           █████████████
-
-   contribution density → stellar density
-   activity             → gravitational field
-   repositories         → orbital bodies
+                    CONTRIBUTION DATA
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │  GITHUB HISTORY  │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   COMMIT DENSITY │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │  STAR GENERATOR  │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │  SPIRAL ENGINE   │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   GALAXY.SVG    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                     README PROFILE
 ```
+
+### `GALAXY PHYSICS`
+
+```text
+COMMIT
+  │
+  ├── 0 commits
+  │      └── dark space
+  │
+  ├── low activity
+  │      └── dim star
+  │
+  ├── medium activity
+  │      └── bright star
+  │
+  ├── high activity
+  │      └── hot star
+  │
+  └── extreme activity
+         └── stellar core
+```
+
+### `CONTRIBUTION DENSITY`
+
+```text
+                  ·       ✦
+          ✧             ·        ·
+     ·          ╭────────────╮          ✦
+                │            │
+          ✦     │   ◉ CORE   │     ✧
+                │            │
+     ·          ╰────────────╯          ·
+          ✧            │
+              ╲        │        ╱
+                ╲      │      ╱
+          ✦───────╲────┼────╱──────✦
+                    ╲  │  ╱
+                      ╲│╱
+                       ◎
+```
+
+<p align="center">
+
+<b>COMMIT ACTIVITY → STELLAR DENSITY → GALACTIC STRUCTURE</b>
+
+</p>
 
 ---
 
